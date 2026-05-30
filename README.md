@@ -1,7 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi there, I’m Debajeet</h1>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Coding+projects+and+solving+problems+with+Innovaion🌟.;❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
 
-I’m currently working on Hands-on projects using Python and structured problem-solving exploring AI-driven systems and automation<br><br>I’m looking to collaborate on open-source projects focused on Python, data analysis, or ML, well-documented beginner-to-intermediate software projects, research-oriented or learning-focused tech communities<br><br>I’m looking for help with, writing scalable and clean code, applying data science concepts to real-world problems, contributing effectively to open-source projects<br><br>I’m currently learning data Structures & Algorithms, Core Data Science & Machine Learning fundamentals, ersion control, Linux, and professional development workflows<br><br>Ask me about Python programming & analytical thinking, Data science learning paths for undergraduates<br><br>Fun fact- I enjoy reverse-engineering how systems work before building my own solutions.
+I’m looking to collaborate on open-source projects focused on Python, data analysis, or ML, well-documented beginner-to-intermediate software projects, research-oriented or learning-focused tech communities<br><br>I’m looking for help with, writing scalable and clean code, applying data science concepts to real-world problems, contributing effectively to open-source projects<br><br>I’m currently learning data Structures & Algorithms, Core Data Science & Machine Learning fundamentals, ersion control, Linux, and professional development workflows<br><br>Ask me about Python programming & analytical thinking, Data science learning paths for undergraduates<br><br>Fun fact- I enjoy reverse-engineering how systems work before building my own solutions.
 
 
 ## 🌐 Socials:
