@@ -42,13 +42,7 @@ and rebuilding them into something useful.
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 <p align="center">
-  🌐 Socials: <a href="https://discord.gg/drex140714">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/debajeet.mandal.52">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/dev_mn141/">
+  🌐 Socials: <a href="https://www.instagram.com/dev_mn141/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/debajeet-mandal-b46b37377/">
