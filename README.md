@@ -1,16 +1,12 @@
-<h1 align="center">Hi there, I’m Debajeet</h1>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&lines=Coding+projects+and+solving+problems+with+innovation;Dream.+Create.+Share." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=2000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Debajeet+Mandal" />
 </p>
 
-
-<p align="center">
+<h3 align="center">
 <strong>B.Tech CSE (Data Science) Student</strong> •
 <strong>Open Source Contributor</strong> •
-<strong>ML Enthusiast</strong>
-</p>
+<strong>ML Enthusiast</strong> @<strong>NIAT</strong>
+</h3>
 
 <p align="center">
 I enjoy understanding how systems work, breaking them apart,<br>
@@ -45,11 +41,8 @@ and rebuilding them into something useful.
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
-
-<h3 align="center">🌐 Socials</h3>
-
 <p align="center">
-  <a href="https://discord.gg/drex140714">
+  🌐 Socials: <a href="https://discord.gg/drex140714">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/debajeet.mandal.52">
@@ -68,9 +61,11 @@ and rebuilding them into something useful.
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debajeet-1411&theme=tokyonight&hide_border=true" />
+  <Exploring code, solving problems, contributing to open source, and constantly learning how great software is built
+</p>
+<p align="center">
+  <span style="font-size:10px;">
+      Exploring code, solving problems, contributing to open source, and constantly learning how great software is built.
+  </span>
 </p>
