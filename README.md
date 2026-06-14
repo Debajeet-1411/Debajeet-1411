@@ -13,7 +13,12 @@ I enjoy understanding how systems work, breaking them apart,<br>
 and rebuilding them into something useful.
 </p>
 
+
+<p align="center">
+With great power comes,greater elctricity bills!!
+</p>
 <p align="center">;)</p>
+
 
 <p align="center">
   <b>Languages & Tools</b><br><br>
