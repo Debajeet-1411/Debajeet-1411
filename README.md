@@ -67,4 +67,5 @@ and rebuilding them into something useful.
   <span style="font-size:10px;">
       Exploring code, solving problems, contributing to open source, and constantly learning how great software is built.
   </span>
+  <p align="center">📍 Pune, India</p>
 </p>
